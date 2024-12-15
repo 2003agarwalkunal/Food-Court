@@ -3,7 +3,7 @@ const Contact = () => {
     <div className="bg-gradient-to-r from-green-400 to-blue-500 text-white py-10">
       <div className="container mx-auto p-6">
         <h1 className="text-5xl font-bold text-center mb-6">Contact Us</h1>
-        <h3 className="text-xl text-center mb-2">Kunal Aggarwal</h3>
+        <h3 className="text-xl text-center mb-2">Pranjal Kumar</h3>
         <h4 className="text-lg text-center mb-4">
           Email:{" "}
           <a
